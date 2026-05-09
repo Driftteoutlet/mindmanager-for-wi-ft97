@@ -1,4 +1,4 @@
-
+Enhance MindManager for Windows with new MindManager for Windows Module | attachments + presentation-mode, the #1 module. Includes attachments and presentation-mode for a smoother
 
 
 
